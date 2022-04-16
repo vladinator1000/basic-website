@@ -1,1 +1,1 @@
-To start, please open [src/index.html](./src/index.html)
+To start, please open [src/index.html](./src/index.html) in your browser.
